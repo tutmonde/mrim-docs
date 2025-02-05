@@ -6,7 +6,7 @@
 * [Авторизация](auth.md)
 * [Контакты](contacts.md)
 * [Сообщения](messages.md)
-* [Игры](game.md)
+* [Игры](games.md)
 * [Поиск и анкеты](anketa.md)
 * [Почта](email.md)
 * [Аватарки (Образы)](obraz.md)
