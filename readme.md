@@ -6,6 +6,8 @@
 * [Авторизация](auth.md)
 * [Контакты](contacts.md)
 * [Сообщения](messages.md)
+* [Передача файлов](files.md)
+* [Звонки](calls.md)
 * [Игры](games.md)
 * [Поиск и анкеты](anketa.md)
 * [Почта](email.md)
